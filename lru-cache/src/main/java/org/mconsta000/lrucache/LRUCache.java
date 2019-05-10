@@ -55,7 +55,6 @@ public final class LRUCache {
             enqueue(node);
             nodes.put(node.key, node);
         }
-
     }
 
     void remove(Node node) {
