@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Unit test for LRUCacheTest.
+ * Unit test for LRUCache.
  */
 public class LRUCacheTest {
 
